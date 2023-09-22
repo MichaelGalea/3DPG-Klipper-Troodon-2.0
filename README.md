@@ -1,1 +1,2 @@
-# 3DPG-Klipper-Troodon-2.0
+# 3DPG_KLIPPER
+3D Printer Gear Klipper Configs 
